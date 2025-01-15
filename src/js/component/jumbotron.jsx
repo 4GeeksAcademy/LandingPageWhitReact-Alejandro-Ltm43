@@ -4,10 +4,10 @@ const Jumbotron = () => {
     return (
         <div class="jumbotron jumbotron-fluid text-bg-light p-3">
             <div class="container">
-                <h1 class="display-4">Fluid jumbotron</h1>
-                <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+                <h1 class="display-4">A Warm Welcome!</h1>
+                <p class="lead">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi suscipit recusandae ea in autem! Animi minus culpa, et iste eligendi pariatur eveniet suscipit cupiditate asperiores libero, architecto ipsam deserunt.</p>
                 <p class="lead">
-                    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+                    <a class="btn btn-primary btn-lg" href="#" role="button">Call to action!</a>
                 </p>
             </div>
         </div>
